@@ -1,6 +1,6 @@
 {
-    "subscription_id": "b6f36488-dc91-4b49-b174-57974a5321bc",
-    "resource_group": "AIResourcegroup",
-    "workspace_name": "AIWorkspace",
-    "location": "centralus"
+    "subscription_id": "46668180-b0ad-4a49-bed9-88f16f315dce",
+    "resource_group": "MLGroup",
+    "workspace_name": "ShivaMLservice",
+    "location": "westus2"
 }
